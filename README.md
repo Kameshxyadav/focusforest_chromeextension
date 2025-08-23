@@ -1,4 +1,3 @@
-# focusforest_chromeextension
 # Focus Forest — Chrome MV3
 
 A small extension that helps you focus. Start a session and a right-edge timer bubble appears on every tab. During focus, listed sites are blocked. If you visit one, the session ends. Optional Pomodoro and gentle reminders to hydrate and stretch.
